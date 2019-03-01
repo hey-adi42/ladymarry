@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/watercolor_bg.07740f2a.png";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/watercolor_bg.png
+// module id = 497
+// module chunks = 0

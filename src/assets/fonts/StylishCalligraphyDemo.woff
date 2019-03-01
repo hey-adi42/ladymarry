@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/StylishCalligraphyDemo.e6330e2e.woff";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/fonts/StylishCalligraphyDemo.woff
+// module id = 961
+// module chunks = 0

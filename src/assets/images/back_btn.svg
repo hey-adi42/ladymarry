@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/back_btn.8b16d6fc.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/back_btn.svg
+// module id = 541
+// module chunks = 0

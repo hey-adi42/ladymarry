@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/eau_sans_book.6cb36d23.woff";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/fonts/eau_sans_book.woff
+// module id = 962
+// module chunks = 0
