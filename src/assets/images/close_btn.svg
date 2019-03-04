@@ -1,8 +1,15 @@
-module.exports = __webpack_public_path__ + "static/media/close_btn.f91dacf3.svg";
-
-
-//////////////////
-// WEBPACK FOOTER
-// ./src/assets/images/close_btn.svg
-// module id = 540
-// module chunks = 0
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>resgitry_web_close_button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="✅-Web_v1_20180220-23_r2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="resgitry_web_close_button" stroke="#979797">
+            <g id="Group-3" transform="translate(3.000000, 3.000000)">
+                <path d="M0.5,0.5 L23.0055549,23.0055549" id="Line-5"></path>
+                <path d="M0.5,0.5 L23.0055549,23.0055549" id="Line-5-Copy" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

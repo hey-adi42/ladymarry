@@ -12,3 +12,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html, body, .root {
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  line-height: 1.4;
+  overflow: auto;
+}
+body, .app {
+  background: white;
+}
+
+@font-face {
+  font-family: stylish-calligraphy-demo;
+  src: url('/static/media/StylishCalligraphyDemo.e6330e2e.woff') format('woff');
+}
+
+@font-face {
+  font-family: eau-sans-bold;
+  src: url('/static/media/eau_sans_bold.8b3e8b39.woff') format('woff');
+}
+
+@font-face {
+  font-family: eau-sans-book;
+  src: url('/static/media/eau_sans_book.6cb36d23.woff') format('woff');
+}

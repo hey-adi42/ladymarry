@@ -1,8 +1,10 @@
-module.exports = __webpack_public_path__ + "static/media/back_btn.8b16d6fc.svg";
-
-
-//////////////////
-// WEBPACK FOOTER
-// ./src/assets/images/back_btn.svg
-// module id = 541
-// module chunks = 0
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>registry_back_btn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="registry_back_btn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <path d="M12.6476792,4 C10.5297995,6.08111116 8.64723977,8.08111116 7,10 C8.88255974,11.9535231 10.7651195,13.9535231 12.6476792,16" id="Line-6" stroke="#979797"></path>
+    </g>
+</svg>

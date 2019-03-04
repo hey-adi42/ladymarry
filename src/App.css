@@ -26,15 +26,15 @@ body, .app {
 
 @font-face {
   font-family: stylish-calligraphy-demo;
-  src: url('${StylishCalligraphyDemo}') format('woff');
+  src: url('/static/media/StylishCalligraphyDemo.e6330e2e.woff') format('woff');
 }
 
 @font-face {
   font-family: eau-sans-bold;
-  src: url('${EauSansBold}') format('woff');
+  src: url('/static/media/eau_sans_bold.8b3e8b39.woff') format('woff');
 }
 
 @font-face {
   font-family: eau-sans-book;
-  src: url('${EauSansBook}') format('woff');
+  src: url('/static/media/eau_sans_book.6cb36d23.woff') format('woff');
 }
